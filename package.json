@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "start": "ts-node-dev server.ts"
+  },
   "dependencies": {
     "global": "^4.4.0",
     "koa": "^2.13.4",
